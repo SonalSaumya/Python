@@ -1,0 +1,7 @@
+id,branch,city,cust,gender,prod,price,quantity,total,date,time,payment
+1,a,x,m,f,h,10,1,10,6,10,e
+2,b,y,n,f,e,20,2,20,7,11,c
+3,c,z,n,m,l,30,3,30,8,12,cr
+4,e,v,m,m,h,50,4,45,9,1,cr
+5,f,w,n,f,e,80,5,60,11,2,c
+6,g,u,m,m,l,90,6,30,13,3,e
