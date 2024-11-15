@@ -1,0 +1,6 @@
+,ID,name,Age,Gender,Score
+0,1,A,10,M,NaN
+1,2,B,NaN,F,200
+2,3,C,30,M,NaN
+3,4,D,NaN,F,400
+4,5,E,50,F,500
